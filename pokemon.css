@@ -1,0 +1,31 @@
+h1{
+    text-align :center;
+    color:#940707;
+    font-family: Georgia, serif;
+    font-size:75px;
+    letter-spacing: 10px;
+}
+
+span{
+    font-weight: bolder;
+}
+
+img{ 
+    border-radius: 4%;  
+}
+
+.seg{
+    display: inline-flex;
+    flex-direction: column;
+    outline-style: groove;
+    margin: 50px 20px auto auto;
+    text-align :center;
+    font-family:cursive;
+    border-radius: 3%;    
+}
+body{
+    background-color:#d4e978;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
